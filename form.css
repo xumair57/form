@@ -1,0 +1,18 @@
+div{
+    background-color: #d6f18c;
+}
+.a{
+    color: navy ;
+}
+.buttons{
+    color: black;
+    background-color: #d6f18c;
+    border: #d6f18c 2px solid;
+    position: absolute;
+    left: 500px;
+}
+.QUALIFICATIONS{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top: 50px;
+}
